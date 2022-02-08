@@ -1,0 +1,3 @@
+HTML för att skapa skelett (Svart/Vit text)
+
+CSS - Cascading style sheet? (Formatterar utseendet på sidan utöver grunderna)

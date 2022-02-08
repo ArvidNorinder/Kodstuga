@@ -1,0 +1,47 @@
+body {
+    background-color: aqua;
+    font-family: cursive;
+}
+
+button {
+    border-radius: 2cm;
+}
+
+button:hover {
+    transform: scale(2);
+}
+
+.image {
+    height: 8cm;
+    border-radius: 5px;
+    border: crimson;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.canvas {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.cell {
+    width: 24px;
+    height: 24px;
+    background-color: wheat;
+}
+
+#colors {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
